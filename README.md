@@ -100,14 +100,24 @@ The project explores different dimensions of the ITBI data, including:
 The analysis combines descriptive statistics and data visualization to identify patterns in the real estate market of Fortaleza.
 
 ---
-
 ## 🗺️ Interactive Dashboard
 
 An interactive dashboard was developed to allow users to explore the ITBI data dynamically.
 
-[![Acessar Dashboard](https://img.shields.io/badge/📊_Acessar_Dashboard-ITBI_Fortaleza-blue?style=for-the-badge)](https://teste.solutions/)
+[![ITBI Fortaleza Dashboard](dashboard_overview.jpeg)](https://teste.solutions/)
+
+<p align="center">
+  <em>Interactive dashboard for exploring ITBI real estate transactions in Fortaleza.</em>
+</p>
+
+<p align="center">
+  <a href="https://teste.solutions/">
+    <img src="https://img.shields.io/badge/📊_Acessar_Dashboard-ITBI_Fortaleza-blue?style=for-the-badge">
+  </a>
+</p>
 
 The dashboard provides different analytical perspectives and interactive filters for exploring real estate transactions in Fortaleza.
+
 ---
 
 ## 🛠️ Technologies
