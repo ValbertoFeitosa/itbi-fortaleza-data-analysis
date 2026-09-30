@@ -1,5 +1,13 @@
 # 🏙️ ITBI Fortaleza — Real Estate Data Analysis
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+![UFC](https://img.shields.io/badge/UFC-Business%20Intelligence-blue)
+
+
 ## 📌 Overview
 
 This project presents a data analysis of **real estate transactions in Fortaleza, Ceará, Brazil**, based on records from the **Imposto sobre a Transmissão de Bens Imóveis (ITBI)**.
