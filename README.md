@@ -123,7 +123,7 @@ The project uses:
 
 The complete data preparation and analysis process is available in the Jupyter Notebook:
 
-`Versao_final_Seminario01_2026_2_BI.ipynb`
+`itbi_fortaleza_data_analysis.ipynb`
 
 The notebook can also be opened directly in **Google Colab**.
 
